@@ -7,7 +7,7 @@ app_version: 0.9.4-6
 
 This is start
 
-```c
+```arduino
 function getString() {
   return 'This is a code world~';
 }
