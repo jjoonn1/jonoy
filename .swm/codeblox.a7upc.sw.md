@@ -34,6 +34,10 @@ And this is end
 var i = 0;
 ```
 
+```ts
+function getString()
+```
+
 
 
 
