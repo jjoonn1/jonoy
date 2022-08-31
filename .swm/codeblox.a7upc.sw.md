@@ -22,7 +22,7 @@ This is start
 
 <br/>
 
-```json
+```javascript
 function getString() {
   return 'This is a code world~';
 }
